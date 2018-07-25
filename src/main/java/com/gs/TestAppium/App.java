@@ -41,6 +41,26 @@ public class App
     	 *  Y para finalizar el flujo se debe de presionar el boton "SIGUIENTE" con id = btn_next
     	 * 
     	 * 
+    	 * Cuando hayas finalizado debes dirigirte a la linea de comandos (Terminal) y dirigirte a la siguiente ruta:
+    	 * 
+    	 * /Users/html5-5/Documents/Automatizacion/Apium/TestAppium
+    	 * 
+    	 * Y por medio de comandos Git:
+    	 * 
+    	 * Crear una Branch con tu primer nombre y las iniciales de tus apellidos ejemplo:
+    	 * 
+    	 * 	Carlos Noriega Garcia
+    	 * 
+    	 * La branch se deberia llamar carlosng
+    	 * 
+    	 * Y el commit TestJavaCarlosNG	
+    	 * 
+    	 * Deberás subir tus cambios a la Branch creada.
+    	 * 
+    	 * Toma en ceunta verificar en que Branch te encuentras antes de subir tus cambios.
+    	 * 
+    	 * 
+    	 * 
     	 * */
 		
 		Driver driverConfig = new Driver();
